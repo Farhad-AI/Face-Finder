@@ -1,1 +1,9 @@
-# Face Finder! Detecting,analyzing and filtering faces
+# Face Finder! Detecting, analyzing and filtering faces
+
+
+### Examples
+##### GENDER
+
+##### RACE
+
+##### AGE
