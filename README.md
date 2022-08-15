@@ -1,1 +1,1 @@
-# Face-Finder-detecting-analyzing-and-filtering-faces
+# Face Finder! Detecting,analyzing and filtering faces
