@@ -2,8 +2,4 @@
 
 
 ### Examples
-##### GENDER
 
-##### RACE
-
-##### AGE
