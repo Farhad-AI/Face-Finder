@@ -1,9 +1,9 @@
-# Face Finder! Detecting, analyzing and filtering faces
+# Face finder! Detecting, analyzing and filtering faces
 This project consists of 3 steps: First of all, detecting faces available in the image, then analyzing these faces by a dedicated network to get their attributes and finaly, filter them to truncate the final list and show the result. 
 
 ### Examples
 
-        img_copy = face_finder(address, gender='man'                  
+        img_copy = face_finder(address, gender='man' )                  
 ![man](https://user-images.githubusercontent.com/106428795/184708598-8fb701fa-0805-458d-87e5-f999de59c037.jpg)
 
         img_copy = face_finder(address, gender='woman' )
